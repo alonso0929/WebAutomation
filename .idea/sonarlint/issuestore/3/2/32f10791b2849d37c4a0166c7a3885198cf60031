@@ -1,0 +1,21 @@
+
+|
+java:S1104"ZMake nombreProducto a static final constant or non-public and provide accessors if needed.(û¢³½üÿÿÿÿ8ËÁ÷õ1
+|
+java:S1104"ZMake precioProducto a static final constant or non-public and provide accessors if needed.(ŠË‘üÿÿÿÿ8ËÁ÷õ1
+~
+java:S1104"\Make cantidadProducto a static final constant or non-public and provide accessors if needed.(ò¬˜ıÿÿÿÿ8ËÁ÷õ1
+V
+java:S1444"4Make this "public static nombreProducto" field final(û¢³½üÿÿÿÿ8ÌÁ÷õ1
+V
+java:S1444"4Make this "public static precioProducto" field final(ŠË‘üÿÿÿÿ8ÌÁ÷õ1
+X
+java:S1444"6Make this "public static cantidadProducto" field final(ò¬˜ıÿÿÿÿ8ÌÁ÷õ1
+?
+java:S2386"Make this member "protected".(û¢³½üÿÿÿÿ8ĞÁ÷õ1
+?
+java:S2386"Make this member "protected".(ŠË‘üÿÿÿÿ8ĞÁ÷õ1
+?
+java:S2386"Make this member "protected".(ò¬˜ıÿÿÿÿ8ĞÁ÷õ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(´½ÈÔøÿÿÿÿ8ÑÁ÷õ1

@@ -1,0 +1,13 @@
+
+†
+java:S4144,"dUpdate this method so that its implementation is not identical to "seleccionarProductos" on line 38.(¸Õœ¾ıÿÿÿÿ8Ö×‰ö1
+_
+java:S6353M"=Use concise character class syntax '\\D' instead of '[^0-9]'.(ù·®şÿÿÿÿ8ô×‰ö1
+E
+java:S4274S"(Replace this assert with a proper check.(úĞº»8õ×‰ö1
+E
+java:S4274X"(Replace this assert with a proper check.(¯ñİ8÷×‰ö1
+]	java:S125f"<This block of commented-out lines of code should be removed.(¿šÜ“øÿÿÿÿ8±çö1
+\
+java:S1128
+":Remove this unused import 'org.junit.Assert.assertEquals'.(¿Ù‹Ÿşÿÿÿÿ8³çö1
