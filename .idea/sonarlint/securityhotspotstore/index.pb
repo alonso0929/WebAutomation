@@ -158,3 +158,5 @@ w
 G.idea/sonarlint/issuestore/8/3/8339c880564669ec0c3741b613c1c72117e5379d,2\4\24122e145342950ca7eecb0c1595981cddb78f56
 Å
 Q.idea/sonarlint/securityhotspotstore/3/0/30205a209c6ce77c4cfc19a09e6f57c588b7fb88,6\7\67eaf978e530588b1f14f51aeca296c2b659e272
+]
+-src/main/java/com/co/rimac/models/Modelo.java,c\1\c1ba6a5133cd6695a74d1337581c2e54ff9d6601
